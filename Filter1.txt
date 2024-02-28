@@ -1,2 +1,2 @@
 @@||google.com/*fpstate=ive&vld*$document
-@@||google.com$document
+!@@||google.com$document
